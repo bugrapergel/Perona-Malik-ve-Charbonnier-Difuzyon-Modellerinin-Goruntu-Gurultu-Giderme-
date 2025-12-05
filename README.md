@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
-![License](https://img.shields.io/badge/Course-CMP717-orange)
+![License](https://img.shields.io/badge/Course-YZM309-orange)
 
 Bu depo,  **Doğrusal Olmayan Difüzyon (Anizotropik Difüzyon)** filtreleme tekniklerinin Python implementasyonunu içerir. Proje, görüntüdeki gürültüyü giderirken önemli yapısal kenarları korumayı amaçlayan Perona-Malik modeline odaklanmaktadır.
 
